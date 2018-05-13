@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileSystem">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\FileSystem.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\FileSystem.suo">
+</Property><Property Name="Date" Value="1 марта 2008 г.">
+</Property><Property Name="Time" Value="13:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FileSystem.sln" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FileSystem.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FileSystem.suo" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FileSystem.suo">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FileSystem.csproj" Description="Project file successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FileSystem.csproj">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FileSystem.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FileSystem.csproj.user">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FormCreateDir.cs" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FormCreateDir.cs">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FormCreateImage.cs" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FormCreateImage.cs">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FormSelectDir.cs" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FormSelectDir.cs">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FormCreateDir.resx" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FormCreateDir.resx">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FormCreateImage.resx" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FormCreateImage.resx">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FormSelectDir.resx" Description="File successfully backed up as C:\Documents and Settings\COMP\Мои документы\Visual Studio Projects\FileSystem\Backup\FormSelectDir.resx">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FileSystem.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FileSystem" Source="FileSystem.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FileSystem.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FileSystem.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileSystem" Source="FileSystem.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+obj\Debug\FileSystem.exe
+obj\Debug\FileSystem.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FileSystem.Form1.resources
+obj\Debug\FileSystem.FormCreateDir.resources
+obj\Debug\FileSystem.FormCreateImage.resources
+obj\Debug\FileSystem.FormSelectDir.resources
+obj\Debug\FileSystem.csproj.GenerateResource.Cache
+bin\Debug\FileSystem.exe
+bin\Debug\FileSystem.pdb
